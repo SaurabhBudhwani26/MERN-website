@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+html,
+body,
+#root,
+.app{
+  height: 100%;
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+}
+/* The height: 100%; and width: 100%; rules set the height and width of 
+these elements to occupy the full height and width of their container. */
